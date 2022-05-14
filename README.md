@@ -1,6 +1,6 @@
 # ARTH_task24
 
-Task Description📄
+Task Description:
 
 📌 Create a Helm chart on any Technology learnt.
 
